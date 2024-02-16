@@ -1,0 +1,5 @@
+﻿  LB4.cpp
+C:\Users\Ms_Hlopets\Desktop\Лабы2023\ЛБ4\LB4.2\LB4.cpp(58,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Ms_Hlopets\Desktop\Лабы2023\ЛБ4\LB4.2\LB4.cpp(100,49): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Ms_Hlopets\Desktop\Лабы2023\ЛБ4\LB4.2\LB4.cpp(103,84): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  LB4.vcxproj -> C:\Users\Ms_Hlopets\Desktop\Лабы2023\ЛБ4\LB4.2\x64\Debug\LB4.exe
